@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "622228831215",
+    "project_id": "weza-social3",
+    "storage_bucket": "weza-social3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622228831215:android:d777a8e31025a02d8b541a",
+        "android_client_info": {
+          "package_name": "com.example.weza_social3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622228831215-tq8orrrgr1q7qmnplueqbhk6220ahp75.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.weza_social3",
+            "certificate_hash": "1efc0dde00b16b662e9739d662dff87b9bc86406"
+          }
+        },
+        {
+          "client_id": "622228831215-59938lgea6d9trs2aj4om5rnu9pcpsjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrw0FSxWwZq289KeqEb78yro6RQ8OaqK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622228831215-59938lgea6d9trs2aj4om5rnu9pcpsjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
